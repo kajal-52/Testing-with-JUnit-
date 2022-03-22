@@ -1,10 +1,10 @@
 .gradle
 /build/
-gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.jar
 .idea
 .git
-.gradlew
-.gradlew.bat
+gradlew
+gradlew.bat
 
 # Ignore Gradle GUI config
 gradle-app.setting
