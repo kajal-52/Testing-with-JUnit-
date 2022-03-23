@@ -14,4 +14,9 @@ public class TodoServiceStub implements TodoService {
             return Arrays.asList();
         }
     }
+
+    @Override
+    public void deleteTodos(String todo) {
+
+    }
 }

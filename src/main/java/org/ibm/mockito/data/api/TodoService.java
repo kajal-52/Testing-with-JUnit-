@@ -5,4 +5,5 @@ import java.util.List;
 // External Service - Impl by another team
 public interface TodoService {
 	List<String> retrieveTodos(String user);
+	void deleteTodos(String todo);
 }

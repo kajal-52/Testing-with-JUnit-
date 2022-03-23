@@ -2,10 +2,11 @@ package org.ibm.mockito.business;
 
 import org.ibm.mockito.data.api.TodoService;
 import org.ibm.mockito.data.api.TodoServiceStub;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.List;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.Assert.assertEquals;
 
 public class TodoBusinessImplStubTest {
 
