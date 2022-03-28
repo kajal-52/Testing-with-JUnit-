@@ -1,4 +1,4 @@
-package org.ibm.mockito;
+package org.ibm.mockito.other;
 
 
 import org.junit.Test;
