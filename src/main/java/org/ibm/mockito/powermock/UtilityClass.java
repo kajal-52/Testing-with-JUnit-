@@ -1,4 +1,4 @@
-package org.ibm.mockito.SUT;
+package org.ibm.mockito.powermock;
 
 public class UtilityClass {
 	static int staticMethod(long value) {
