@@ -1,4 +1,4 @@
-package org.ibm.mockito.SUT;
+package org.ibm.mockito.powermock;
 
 import java.util.ArrayList;
 import java.util.List;
